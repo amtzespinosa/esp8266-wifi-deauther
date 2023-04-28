@@ -86,7 +86,7 @@ Original code of **A_config.h**:
     
     // #define FLIP_DIPLAY true
 
-Of course you have to uncomment the display you are using. But, as well, you need to add one more thing. Here is the code with what I made it work:
+Of course you have to uncomment the display you are using. But, as well, you need to add one more thing. Here is the code with which I made it work:
 
     #elif defined(DISPLAY_EXAMPLE_I2C)
     
